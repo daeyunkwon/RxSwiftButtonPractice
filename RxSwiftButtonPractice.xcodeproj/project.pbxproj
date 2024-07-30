@@ -15,6 +15,10 @@
 		447F231E2C58D2200037D433 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 447F231D2C58D2200037D433 /* SnapKit */; };
 		447F23212C58D23A0037D433 /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 447F23202C58D23A0037D433 /* RxCocoa */; };
 		447F23232C58D23A0037D433 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 447F23222C58D23A0037D433 /* RxSwift */; };
+		447F23252C58DBE60037D433 /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F23242C58DBE60037D433 /* PickerViewController.swift */; };
+		447F23272C5902B20037D433 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F23262C5902B20037D433 /* TableViewController.swift */; };
+		447F23292C5906C00037D433 /* SwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F23282C5906C00037D433 /* SwitchViewController.swift */; };
+		447F232B2C590AEE0037D433 /* TextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F232A2C590AEE0037D433 /* TextFieldViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +29,10 @@
 		447F23112C58D1B40037D433 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		447F23142C58D1B40037D433 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		447F23162C58D1B40037D433 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		447F23242C58DBE60037D433 /* PickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerViewController.swift; sourceTree = "<group>"; };
+		447F23262C5902B20037D433 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		447F23282C5906C00037D433 /* SwitchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchViewController.swift; sourceTree = "<group>"; };
+		447F232A2C590AEE0037D433 /* TextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				447F23112C58D1B40037D433 /* Assets.xcassets */,
 				447F23132C58D1B40037D433 /* LaunchScreen.storyboard */,
 				447F23162C58D1B40037D433 /* Info.plist */,
+				447F23242C58DBE60037D433 /* PickerViewController.swift */,
+				447F23262C5902B20037D433 /* TableViewController.swift */,
+				447F23282C5906C00037D433 /* SwitchViewController.swift */,
+				447F232A2C590AEE0037D433 /* TextFieldViewController.swift */,
 			);
 			path = RxSwiftButtonPractice;
 			sourceTree = "<group>";
@@ -149,8 +161,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				447F23292C5906C00037D433 /* SwitchViewController.swift in Sources */,
 				447F230D2C58D1B30037D433 /* ViewController.swift in Sources */,
+				447F232B2C590AEE0037D433 /* TextFieldViewController.swift in Sources */,
 				447F23092C58D1B30037D433 /* AppDelegate.swift in Sources */,
+				447F23252C58DBE60037D433 /* PickerViewController.swift in Sources */,
+				447F23272C5902B20037D433 /* TableViewController.swift in Sources */,
 				447F230B2C58D1B30037D433 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
