@@ -21,6 +21,7 @@
 		447F232B2C590AEE0037D433 /* TextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F232A2C590AEE0037D433 /* TextFieldViewController.swift */; };
 		44E5D3962C5A394C008AD8B3 /* AddingNumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D3952C5A394C008AD8B3 /* AddingNumbersViewController.swift */; };
 		44E5D3982C5A45E7008AD8B3 /* SimpleValidationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D3972C5A45E7008AD8B3 /* SimpleValidationViewController.swift */; };
+		44E5D39A2C5A5D1B008AD8B3 /* SimpleTableViewExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D3992C5A5D1B008AD8B3 /* SimpleTableViewExampleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		447F232A2C590AEE0037D433 /* TextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldViewController.swift; sourceTree = "<group>"; };
 		44E5D3952C5A394C008AD8B3 /* AddingNumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNumbersViewController.swift; sourceTree = "<group>"; };
 		44E5D3972C5A45E7008AD8B3 /* SimpleValidationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidationViewController.swift; sourceTree = "<group>"; };
+		44E5D3992C5A5D1B008AD8B3 /* SimpleTableViewExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewExampleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				447F232A2C590AEE0037D433 /* TextFieldViewController.swift */,
 				44E5D3952C5A394C008AD8B3 /* AddingNumbersViewController.swift */,
 				44E5D3972C5A45E7008AD8B3 /* SimpleValidationViewController.swift */,
+				44E5D3992C5A5D1B008AD8B3 /* SimpleTableViewExampleViewController.swift */,
 			);
 			path = RxSwiftButtonPractice;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				447F23252C58DBE60037D433 /* PickerViewController.swift in Sources */,
 				447F23272C5902B20037D433 /* TableViewController.swift in Sources */,
 				447F230B2C58D1B30037D433 /* SceneDelegate.swift in Sources */,
+				44E5D39A2C5A5D1B008AD8B3 /* SimpleTableViewExampleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
