@@ -38,7 +38,6 @@ class PickerViewController: UIViewController {
     
     func setupPickerView() {
         let items = Observable.just(["영화", "드라마", "애니메이션", "기타"])
-    
         items.bind(to: pickView.rx.itemTitles) { row, element in
             return element
         }
