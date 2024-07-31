@@ -20,6 +20,7 @@
 		447F23292C5906C00037D433 /* SwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F23282C5906C00037D433 /* SwitchViewController.swift */; };
 		447F232B2C590AEE0037D433 /* TextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447F232A2C590AEE0037D433 /* TextFieldViewController.swift */; };
 		44E5D3962C5A394C008AD8B3 /* AddingNumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D3952C5A394C008AD8B3 /* AddingNumbersViewController.swift */; };
+		44E5D3982C5A45E7008AD8B3 /* SimpleValidationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D3972C5A45E7008AD8B3 /* SimpleValidationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		447F23282C5906C00037D433 /* SwitchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchViewController.swift; sourceTree = "<group>"; };
 		447F232A2C590AEE0037D433 /* TextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldViewController.swift; sourceTree = "<group>"; };
 		44E5D3952C5A394C008AD8B3 /* AddingNumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNumbersViewController.swift; sourceTree = "<group>"; };
+		44E5D3972C5A45E7008AD8B3 /* SimpleValidationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				447F23282C5906C00037D433 /* SwitchViewController.swift */,
 				447F232A2C590AEE0037D433 /* TextFieldViewController.swift */,
 				44E5D3952C5A394C008AD8B3 /* AddingNumbersViewController.swift */,
+				44E5D3972C5A45E7008AD8B3 /* SimpleValidationViewController.swift */,
 			);
 			path = RxSwiftButtonPractice;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				447F23292C5906C00037D433 /* SwitchViewController.swift in Sources */,
 				447F230D2C58D1B30037D433 /* ViewController.swift in Sources */,
+				44E5D3982C5A45E7008AD8B3 /* SimpleValidationViewController.swift in Sources */,
 				44E5D3962C5A394C008AD8B3 /* AddingNumbersViewController.swift in Sources */,
 				447F232B2C590AEE0037D433 /* TextFieldViewController.swift in Sources */,
 				447F23092C58D1B30037D433 /* AppDelegate.swift in Sources */,
